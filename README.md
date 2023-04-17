@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José Antonio</h1>
 <h3 align="center">I'm from Spain and I like to develop so that's why I'm here</h3>
 
-- I'm going to use this for uploading my personal projects, currently there is only one app I made a long time ago when I had less knowledge, but I will try to upload everything I do here**
+- I'm going to use this for uploading my personal projects, currently there is only one app I made a long time ago when I had less knowledge, but I will try to upload everything I do here -
 
 - 🔭 I’m currently working on **a mobile app for Pet Care [EasyPet]**
 
